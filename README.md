@@ -1,4 +1,4 @@
-## Olá, Eu sou o Vinicius Lopes, Desenvolvedor Front End! 👋
+
 ![Bem vindos ao ViniciusLopesG](https://github.com/ViniciusLopesG/ViniciusLopesG/blob/main/Header.png)
 <div align="center">
   <a href="https://github.com/rafaballerini">
