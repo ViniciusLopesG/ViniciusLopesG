@@ -136,13 +136,6 @@ Atualmente, trabalho em projetos que envolvem a criação de aplicações web di
     src="https://github-readme-stats.vercel.app/api?username=ViniciusLopesG&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLopesG&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
 
 <br>
