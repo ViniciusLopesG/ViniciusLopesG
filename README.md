@@ -144,6 +144,7 @@ Atualmente, trabalho em projetos que envolvem a criação de aplicações web di
   />
 
 </p>
+
 <br>
 <br>
 <br>
