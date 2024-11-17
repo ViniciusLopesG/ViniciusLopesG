@@ -2,8 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Meu nome é Vinicius Lopes, tenho 37 anos e sou natural de Ceilândia, DF. Sou desenvolvedor fullstack com uma paixão por tecnologia e inovação. Minha jornada na área começou há muitos anos, e desde então tenho me dedicado a aprimorar minhas habilidades em diversas tecnologias, tanto no front-end quanto no back-end.
-Atualmente, trabalho em projetos que envolvem a criação de aplicações web dinâmicas e responsivas, utilizando ferramentas como JavaScript, React e Node.js. Acredito que a tecnologia pode transformar a vida das pessoas, e é isso que me motiva a continuar aprendendo e evoluindo.
+<p>Meu nome é Vinicius Lopes, tenho 37 anos e sou natural de Ceilândia, DF. Sou desenvolvedor fullstack com uma paixão por tecnologia e inovação. Minha jornada na área começou há muitos anos, e desde então tenho me dedicado a aprimorar minhas habilidades em diversas tecnologias, tanto no front-end quanto no back-end.</p>
+<p>
+    Atualmente, trabalho em projetos que envolvem a criação de aplicações web dinâmicas e responsivas, utilizando ferramentas como JavaScript, React e Node.js. Acredito que a tecnologia pode transformar a vida das pessoas, e é isso que me motiva a continuar aprendendo e evoluindo.
+</p>
+
 
 ---
 
@@ -141,13 +144,7 @@ Atualmente, trabalho em projetos que envolvem a criação de aplicações web di
 </a>
 </div>
 </p>
-
 <br>
-<br>
-<br>
-<br>
-<br>
-
 
 ### 🔗 Projetos em Destaque
 [**Projeto 1**](link-do-projeto): Breve descrição do projeto e tecnologias utilizadas.<br>
