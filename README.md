@@ -147,11 +147,7 @@ Atualmente, trabalho em projetos que envolvem a criação de aplicações web di
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ### 🔗 Projetos em Destaque
 [**Projeto 1**](link-do-projeto): Breve descrição do projeto e tecnologias utilizadas.<br>
