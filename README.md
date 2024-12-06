@@ -1,39 +1,4 @@
-# 👨‍💻 Vinícius Lopes
 
-**`Desenvolvedor FullStack`**
-
-Olá! Sou Vinícius Lopes, um desenvolvedor FullStack de 37 anos, natural de Ceilândia, DF. Minha paixão por tecnologia e inovação me levou a construir uma carreira sólida na área de desenvolvimento. Com experiência em diversas tecnologias, estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
-
-Atualmente, trabalho em projetos que envolvem a criação de aplicações web dinâmicas e responsivas, utilizando ferramentas como **JavaScript**, **React** e **Node.js**. Acredito que a tecnologia pode transformar a vida das pessoas, e é isso que me motiva a continuar evoluindo.
-
----
-
-### 🤖 Tecnologias
-
-#### 🌐 Front End
-- **HTML5** ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg =30x30)
-- **CSS3** ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg =30x30)
-- **JavaScript** ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg =30x30)
-- **React** ![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg =30x30)
-- **Bootstrap** ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg =30x30)
-- **Tailwind CSS** ![Tailwind](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg =30x30)
-- **SASS** ![SASS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg =30x30)
-- **jQuery** ![jQuery](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg =30x30)
-
-#### ⚙️ Back End
-- **Node.js** ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg =30x30)
-- **Express** ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg =30x30)
-
-#### 🗄️ Banco de Dados
-- **MySQL** ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg =30x30)
-
-#### 🛠️ Ferramentas e Outros
-- **Git** ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg =30x30)
-- **GitHub** ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg =30x30)
-
-### 📚 Atualmente, estou aprendendo
-- **TypeScript** ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg =30x30)
-- **Next.js** ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg =30x30)
 
 ---
 
